@@ -1,0 +1,201 @@
+{
+"manali":{
+"description":"Famous Himalayan hill station in Himachal Pradesh known for snow and adventure.",
+"photography":["Rohtang Pass","Jogini Waterfall","Solang Valley"],
+"nature":["Beas River","Bhrigu Lake","Solang Valley"],
+"adventure":["Paragliding","River Rafting","Skiing"],
+"religious":["Hadimba Temple","Manu Temple"],
+"food":["Siddu","Trout Fish"],
+"best_time":"Oct-Feb for snow"
+},
+
+"shimla":{
+"description":"Capital of Himachal Pradesh and famous colonial hill station.",
+"photography":["The Ridge","Jakhu Temple View","Christ Church"],
+"nature":["Kufri","Green Valley"],
+"adventure":["Skiing in Kufri","Trekking"],
+"religious":["Jakhu Temple"],
+"food":["Chana Madra","Siddu"],
+"best_time":"March-June"
+},
+
+"leh_ladakh":{
+"description":"High altitude desert known for mountains and monasteries.",
+"photography":["Pangong Lake","Khardung La","Nubra Valley"],
+"nature":["Tso Moriri","Magnetic Hill"],
+"adventure":["Bike Trips","River Rafting","Trekking"],
+"religious":["Hemis Monastery","Thiksey Monastery"],
+"food":["Thukpa","Butter Tea"],
+"best_time":"May-Sept"
+},
+
+"rishikesh":{
+"description":"Yoga capital of the world and adventure hub.",
+"photography":["Laxman Jhula","Ram Jhula"],
+"nature":["Neer Waterfall","Rajaji National Park"],
+"adventure":["River Rafting","Bungee Jumping"],
+"religious":["Triveni Ghat","Parmarth Niketan"],
+"food":["Aloo Puri","Momos"],
+"best_time":"Sept-April"
+},
+
+"varanasi":{
+"description":"One of the world's oldest cities and major spiritual center.",
+"photography":["Dashashwamedh Ghat","Ganga Aarti"],
+"nature":["Ganges River"],
+"adventure":["Boat Ride"],
+"religious":["Kashi Vishwanath Temple","Sarnath"],
+"food":["Kachori Sabzi","Banarasi Paan"],
+"best_time":"Oct-March"
+},
+
+"jaipur":{
+"description":"Pink city known for forts and royal heritage.",
+"photography":["Hawa Mahal","Amber Fort","Jal Mahal"],
+"nature":["Nahargarh Hills"],
+"adventure":["Hot Air Balloon"],
+"religious":["Birla Temple","Govind Dev Ji Temple"],
+"food":["Dal Baati Churma","Ghewar"],
+"best_time":"Oct-March"
+},
+
+"udaipur":{
+"description":"City of lakes and romantic palaces.",
+"photography":["Lake Pichola","City Palace"],
+"nature":["Fateh Sagar Lake"],
+"adventure":["Boat Ride"],
+"religious":["Jagdish Temple"],
+"food":["Dal Baati","Laal Maas"],
+"best_time":"Sept-March"
+},
+
+"jaisalmer":{
+"description":"Golden desert city famous for sand dunes.",
+"photography":["Jaisalmer Fort","Sam Sand Dunes"],
+"nature":["Thar Desert"],
+"adventure":["Camel Safari","Desert Camping"],
+"religious":["Jain Temples"],
+"food":["Ker Sangri","Ghotua Ladoo"],
+"best_time":"Nov-Feb"
+},
+
+"goa":{
+"description":"India's most famous beach destination.",
+"photography":["Baga Beach","Chapora Fort"],
+"nature":["Dudhsagar Falls","Butterfly Beach"],
+"adventure":["Scuba Diving","Parasailing"],
+"religious":["Basilica of Bom Jesus"],
+"food":["Fish Curry","Bebinca"],
+"best_time":"Nov-Feb"
+},
+
+"kerala":{
+"description":"State known for backwaters and greenery.",
+"photography":["Alleppey Backwaters","Munnar Tea Gardens"],
+"nature":["Periyar Wildlife Sanctuary"],
+"adventure":["Houseboat Cruise","Trekking"],
+"religious":["Sabarimala Temple"],
+"food":["Kerala Sadya","Appam"],
+"best_time":"Sept-March"
+},
+
+"munnar":{
+"description":"Tea plantation hill station in Kerala.",
+"photography":["Tea Gardens","Top Station"],
+"nature":["Eravikulam National Park"],
+"adventure":["Trekking"],
+"religious":["Carmelagiri Church"],
+"food":["Kerala Sadya"],
+"best_time":"Sept-May"
+},
+
+"ooty":{
+"description":"Popular hill station in Tamil Nadu.",
+"photography":["Ooty Lake","Doddabetta Peak"],
+"nature":["Botanical Garden"],
+"adventure":["Toy Train Ride"],
+"religious":["St Stephen Church"],
+"food":["Chocolate","Tea"],
+"best_time":"Oct-June"
+},
+
+"mysore":{
+"description":"Historic city famous for Mysore Palace.",
+"photography":["Mysore Palace","Chamundi Hills"],
+"nature":["Brindavan Gardens"],
+"adventure":["Cycling Tours"],
+"religious":["Chamundeshwari Temple"],
+"food":["Mysore Pak"],
+"best_time":"Oct-March"
+},
+
+"bangalore":{
+"description":"Tech capital with parks and nightlife.",
+"photography":["Lalbagh","Cubbon Park"],
+"nature":["Bannerghatta Park"],
+"adventure":["Microlight Flying"],
+"religious":["ISKCON Temple"],
+"food":["Dosa","Filter Coffee"],
+"best_time":"Oct-Feb"
+},
+
+"hyderabad":{
+"description":"City of pearls and Nizami culture.",
+"photography":["Charminar","Golconda Fort"],
+"nature":["Hussain Sagar Lake"],
+"adventure":["Rock Climbing"],
+"religious":["Mecca Masjid"],
+"food":["Hyderabadi Biryani"],
+"best_time":"Oct-Feb"
+},
+
+"kolkata":{
+"description":"Cultural capital of India.",
+"photography":["Howrah Bridge","Victoria Memorial"],
+"nature":["Eco Park"],
+"adventure":["River Cruise"],
+"religious":["Dakshineswar Temple"],
+"food":["Rasgulla","Kathi Roll"],
+"best_time":"Oct-March"
+},
+
+"darjeeling":{
+"description":"Hill station known for tea gardens and Himalayan views.",
+"photography":["Tiger Hill Sunrise","Batasia Loop"],
+"nature":["Tea Gardens"],
+"adventure":["Toy Train Ride","Trekking"],
+"religious":["Peace Pagoda"],
+"food":["Momos","Thukpa"],
+"best_time":"March-May"
+},
+
+"gangtok":{
+"description":"Capital of Sikkim with Himalayan views.",
+"photography":["MG Marg","Tsomgo Lake"],
+"nature":["Nathula Pass"],
+"adventure":["Paragliding"],
+"religious":["Rumtek Monastery"],
+"food":["Thukpa","Momos"],
+"best_time":"Mar-June"
+},
+
+"andaman":{
+"description":"Tropical island paradise with beaches.",
+"photography":["Radhanagar Beach"],
+"nature":["Coral Reefs"],
+"adventure":["Scuba Diving","Snorkeling"],
+"religious":["Local temples"],
+"food":["Seafood"],
+"best_time":"Nov-April"
+},
+
+"agra":{
+"description":"Home of the Taj Mahal.",
+"photography":["Taj Mahal","Agra Fort"],
+"nature":["Mehtab Bagh"],
+"adventure":["Heritage Walk"],
+"religious":["Jama Masjid"],
+"food":["Petha"],
+"best_time":"Oct-March"
+}
+}
